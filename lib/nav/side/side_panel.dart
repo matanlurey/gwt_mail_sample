@@ -2,13 +2,9 @@ import 'dart:async';
 import 'dart:html';
 import 'dart:math' show max;
 
-import 'package:angular/core.dart';
-
-// TODO: use a non-private implementation
-import 'package:angular_components/src/components/material_expansionpanel/material_expansionpanel.dart';
-import 'package:angular_components/src/components/material_icon/material_icon.dart';
-import 'package:angular_components/src/utils/browser/dom_service/dom_service.dart';
-
+import 'package:angular/angular.dart';
+import 'package:angular_components/angular_components.dart';
+import 'package:angular_components/utils/browser/dom_service/dom_service.dart';
 import 'package:gwt_mail_sample/contact/contact_list.dart';
 import 'package:gwt_mail_sample/mail/folder/mail_folder.dart';
 import 'package:gwt_mail_sample/task/task_list.dart';

@@ -1,7 +1,7 @@
 import 'dart:math' show min;
 
 import 'package:angular/core.dart';
-import 'package:angular_components/src/components/material_button/material_button.dart';
+import 'package:angular_components/angular_components.dart';
 
 import 'package:gwt_mail_sample/mail/mail_service.dart';
 

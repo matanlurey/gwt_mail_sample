@@ -2,8 +2,8 @@ import 'dart:async';
 import 'dart:html';
 import 'dart:math' show min, max;
 
-import 'package:angular/core.dart';
-import 'package:angular_components/src/laminate/popup/module.dart';
+import 'package:angular/angular.dart';
+import 'package:angular_components/angular_components.dart';
 
 import 'package:gwt_mail_sample/nav/top/top_panel.dart';
 import 'package:gwt_mail_sample/nav/side/side_panel.dart';

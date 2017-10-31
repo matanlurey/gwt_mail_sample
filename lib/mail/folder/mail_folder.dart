@@ -1,7 +1,5 @@
 import 'package:angular/angular.dart';
-import 'package:angular_components/src/components/material_icon/material_icon.dart';
-import 'package:angular_components/src/components/material_list/material_list.dart';
-import 'package:angular_components/src/components/material_list/material_list_item.dart';
+import 'package:angular_components/angular_components.dart';
 
 import 'package:gwt_mail_sample/mail/mail_service.dart';
 

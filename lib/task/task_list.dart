@@ -1,5 +1,5 @@
 import 'package:angular/angular.dart';
-import 'package:angular_components/src/components/material_checkbox/material_checkbox.dart';
+import 'package:angular_components/angular_components.dart';
 
 @Component(
   selector: 'task-list',
